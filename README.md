@@ -1,3 +1,8 @@
-#OBJECT ORIENTED PROGRAMMING
-This file contains three projects, "Site construction Management System ", "Hotel Management System" 
-and a "Traffic Fine Management System"
+# Object-Oriented Programming
+
+This repository contains three projects:
+1. **Site Construction Management System**
+2. **Hotel Management System**
+3. **Traffic Fine Management System**
+
+Each project demonstrates the principles of object-oriented programming in a unique context.
